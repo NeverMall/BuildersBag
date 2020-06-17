@@ -1,0 +1,29 @@
+buildersbag.module.buildersbag:random=Случайные блоки
+buildersbag.module.buildersbag:chisel=Чизель
+buildersbag.module.buildersbag:crafting=Создание
+buildersbag.module.buildersbag:littletiles=Маленькие плитки
+buildersbag.module.buildersbag:supplier=Оборудование
+buildersbag.module.buildersbag:chiselsandbits=Чизели и кусочки
+
+buildersbag.module.left=Левая кнопка мыши
+buildersbag.module.shiftleft=Шифт + Левая кнопка мыши
+buildersbag.module.toggle=переключение слотов
+buildersbag.module.to=для
+buildersbag.module.enable=включить
+buildersbag.module.disable=выключить
+buildersbag.sort=Авто-компактный
+
+item.builders_bag_tier_one.name=Начальный мешок Строителя
+item.builders_bag_tier_two.name=Обычный мешок Строителя
+item.builders_bag_tier_three.name=Продвинутый мешок Строителя
+item.builders_bag_tier_four.name=Мешок Строителя-мастера
+item.builders_bag_tier_five.name=Мешок Строителя-эксперта
+
+buildersbag.name=Builder's Bag
+
+buildersbag.noblock=Нет выбранных блоков!
+buildersbag.cantplace=Нельзя поставить %s здесь!
+buildersbag.nomaterials=Недостаточно материалов для размещения %s!
+buildersbag.bagprovides=Может быть обеспечено мешком Строителя
+
+keybind.openBaubleBag=Откройте мешок в Bauble слоте
